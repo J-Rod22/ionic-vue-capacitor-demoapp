@@ -14,9 +14,7 @@
       </ion-toolbar>
     </ion-header>
     <ion-content>
-      <ion-list>
-        <slot />
-      </ion-list>
+      <slot />
     </ion-content>
   </ion-page>
 </template>
@@ -45,5 +43,3 @@ export default {
   },
 };
 </script>
-
-<style></style>

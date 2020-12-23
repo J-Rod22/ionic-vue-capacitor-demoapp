@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import MemoryOverview from "../components/memories/MemoryOverview";
+import MemoryOverview from "../components/memories/MemoryOverview.vue";
 export default {
   components: {
     MemoryOverview,
@@ -31,5 +31,3 @@ export default {
   },
 };
 </script>
-
-<style></style>
